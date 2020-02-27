@@ -1,0 +1,22 @@
+{
+    "events": [
+      {
+        "title": "cien años de soledad",
+        "date": "2018-06-15T00:00:00.000Z",
+        "id": "0"
+      },
+      {
+        "title": "Una sola muerte",
+        "date": "2018-06-15T00:00:00.000Z",
+        "id": "1"
+      },{
+        "title": "Desgarro",
+        "date": "2018-06-15T00:00:00.000Z",
+        "id": "2"
+      },{
+        "title": "Grito en Silencio",
+        "date": "2018-06-15T00:00:00.000Z",
+        "id": "3"
+      }
+    ]
+  }
